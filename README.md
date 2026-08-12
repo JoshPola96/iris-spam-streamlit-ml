@@ -1,5 +1,7 @@
 # Machine Learning Web App Suite: Iris Classifier & Spam/Ham Detector
 
+> **Scope** · Timeboxed technical assessment (short). Built to a brief under a fixed clock — scope decisions were deliberate.
+
 This project demonstrates end-to-end machine learning workflows for two classification tasks: predicting the species of an iris flower and classifying messages as either "spam" or "ham." Both models are deployed as interactive web apps using **Streamlit** and integrated into a single dashboard with tabs for easy navigation.
 
 ## 🧠 Project Highlights
