@@ -2,6 +2,14 @@
 
 > **Scope** · Timeboxed technical assessment (short). Built to a brief under a fixed clock — scope decisions were deliberate.
 
+> [!NOTE]
+> **Built 2025. The ecosystem has moved since.**
+> Dependencies here are unpinned, so a clean `pip install` today resolves to
+> versions that did not exist when this was written and pandas 3.0, numpy 2.5, pytest 9 and black 26 have all landed since. Expect install or
+> runtime breakage on a fresh environment. What is on offer is the engineering
+> approach and the decisions behind it, not a guaranteed-green build.
+> Happy to bring it current if that would be useful — just ask.
+
 This project demonstrates end-to-end machine learning workflows for two classification tasks: predicting the species of an iris flower and classifying messages as either "spam" or "ham." Both models are deployed as interactive web apps using **Streamlit** and integrated into a single dashboard with tabs for easy navigation.
 
 ## 🧠 Project Highlights
