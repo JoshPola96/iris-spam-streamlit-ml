@@ -1,6 +1,6 @@
 # Machine Learning Web App Suite: Iris Classifier & Spam/Ham Detector
 
-> **Scope** · Timeboxed technical assessment (short). Built to a brief under a fixed clock — scope decisions were deliberate.
+> **Scope** · Coursework from my Data Science & ML internship at Irohub Infotech (2024–25), published here afterwards. Not maintained since.
 
 > [!NOTE]
 > **Built 2025. The ecosystem has moved since.**
